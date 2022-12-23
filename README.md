@@ -42,5 +42,5 @@ node app.js
 - Accessing the URL: ```localhost:3000/articles``` to query all articles
 - Accessing specific article: ```localhost:3000/articles/<articleTitle>```
 
-
+<hr>
 <em>Tharathip Kulchotirat</em>

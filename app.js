@@ -4,7 +4,6 @@ const app = express();
 const mongoose = require('mongoose');
 const articles = require(__dirname + '/model.js');
 
-app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({
     extended: true
 }));

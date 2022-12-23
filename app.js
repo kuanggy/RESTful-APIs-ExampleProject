@@ -1,10 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const ejs = require('ejs');
-const _ = require('lodash');
 const app = express();
 const mongoose = require('mongoose');
-const e = require('express');
 const articles = require(__dirname + '/model.js');
 
 app.set('view engine', 'ejs');

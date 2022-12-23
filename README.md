@@ -41,3 +41,6 @@ node app.js
 - Using http verbs: ```GET```, ```POST```, ```PUT```, ```PATCH```, ```DELETE```
 - Accessing the URL: ```localhost:3000/articles``` to query all articles
 - Accessing specific article: ```localhost:3000/articles/<articleTitle>```
+
+
+<em>Tharathip Kulchotirat</em>
